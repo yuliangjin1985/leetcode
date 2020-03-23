@@ -1,7 +1,5 @@
 package string;
 
-import static com.sun.tools.doclint.Entity.sub;
-
 public class LongIntegerSubstract {
 
     String sub(String s1, String s2) {
