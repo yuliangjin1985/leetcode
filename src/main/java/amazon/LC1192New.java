@@ -46,6 +46,7 @@ public class LC1192New {
                 if (disc[v] == -1) {
                     dfs(v, disc, low, graph, result, u);
                     low[u] = Math.min(low[u], low[v]);
+
                     if (low[v] > disc[u]) {
                         result.add(Arrays.asList(u, v));
                     }

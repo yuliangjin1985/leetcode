@@ -1,342 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6689d6-4778-4bbf-84ea-5b227437e0eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+    <list default="true" id="a2d15bcb-12e5-40ff-b1a2-a2ed7946f84b" name="Default Changelist" comment="added a">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/NewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/NewTest0418.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/d03142020/UndergroundSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/LC1092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dp/LC1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tech/SumIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tech/uber/LC528.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tech/uber/LC56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/LC1192.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/LC1192.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/LC1192New.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/LC1192New.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="leetcode" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/google/Subsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#599#625#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="605" column="10" selection-start-line="605" selection-start-column="10" selection-end-line="605" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/map/MusicPair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dp/LC1027.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/trie/LC1032StreamChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="85" column="45" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1944#1945#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/string/LongIntegerSubstract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/slidingwindow/LC424.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/dfs/LC51NQueens.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>second</find>
-      <find>subMap(</find>
-      <find>construct</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/dp/LC368.java" />
-        <option value="$PROJECT_DIR$/src/main/java/palindrome/LC409.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/LC493.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/LC528.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC256.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC236.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC235.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/LC464.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/LC855AssignExamSeats.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/LC229.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bfs/LC127WordLadder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/uber/StringProcess.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dfs/LC698.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC655.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basic/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/BalacendParatathese.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/LC146LRU.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/LC457.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/Calculations.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/LC1001.java" />
-        <option value="$PROJECT_DIR$/src/main/java/backtracking/LC51NQuenes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/others/LC1003.java" />
-        <option value="$PROJECT_DIR$/src/main/java/priorityqueue/LC347.java" />
-        <option value="$PROJECT_DIR$/src/main/java/math/LC43MultipleStrings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/Djikstra.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/LC743Djikstra.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpatterns/BuilderPattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/LC133.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bfs/LC417.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/LC438.java" />
-        <option value="$PROJECT_DIR$/src/main/java/api/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/LC388.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dfs/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dfs/LC399.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/LC1013.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dfs/LC488.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC783.java" />
-        <option value="$PROJECT_DIR$/src/main/java/binarytree/LC501.java" />
-        <option value="$PROJECT_DIR$/src/main/java/priorityqueue/LC703.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/LongIntegerSubstract.java" />
-        <option value="$PROJECT_DIR$/src/main/java/slidingwindow/LC424.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dfs/LC51NQueens.java" />
-        <option value="$PROJECT_DIR$/src/main/java/bits/LC1017.java" />
-        <option value="$PROJECT_DIR$/src/main/java/google/Subsequence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/map/MusicPair.java" />
-        <option value="$PROJECT_DIR$/src/main/java/dp/LC1027.java" />
-        <option value="$PROJECT_DIR$/src/main/java/trie/LC1032.java" />
-        <option value="$PROJECT_DIR$/src/main/java/trie/StreamChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/trie/LC1032StreamChecker.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1ZY4q2nJEFd8ZqobMO5C3WekT9I" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="trie" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ExpressSpringIntegration/lab1/lab1-channels-helper-code" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="math" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="map" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/others" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.LC1032StreamChecker">
-    <configuration name="LC1027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.LC1027" />
-      <module name="leetcode" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.NewTest" />
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.*" />
+          <option name="PATTERN" value="contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1032StreamChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trie.LC1032StreamChecker" />
-      <module name="leetcode" />
+    <configuration name="NewTest0418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.NewTest0418" />
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trie.*" />
+          <option name="PATTERN" value="contest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.MusicPair" />
-      <module name="leetcode" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.QuickSort" />
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="google.Subsequence" />
-      <module name="leetcode" />
+    <configuration name="SumIssues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tech.SumIssues" />
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="google.*" />
+          <option name="PATTERN" value="tech.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1" />
-      <module name="leetcode" />
+    <configuration name="UndergroundSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.d03142020.UndergroundSystem" />
+      <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="contest.d03142020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,653 +129,124 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC1032StreamChecker" />
-        <item itemvalue="Application.LC1027" />
-        <item itemvalue="Application.MusicPair" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Subsequence" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SumIssues" />
+        <item itemvalue="Application.NewTest0418" />
+        <item itemvalue="Application.UndergroundSystem" />
+        <item itemvalue="Application.NewTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="StructuralSearchPlugin">
-    <searchConfiguration name="user defined" created="1551988856600" text="218" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
-      <constraint name="__context__" within="" contains="" />
-    </searchConfiguration>
-  </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df6689d6-4778-4bbf-84ea-5b227437e0eb" name="Default Changelist" comment="" />
-      <created>1549800808427</created>
+      <changelist id="a2d15bcb-12e5-40ff-b1a2-a2ed7946f84b" name="Default Changelist" comment="" />
+      <created>1585002880485</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549800808427</updated>
+      <updated>1585002880485</updated>
     </task>
+    <task id="LOCAL-00001" summary="added a dp question">
+      <created>1585005380016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585005380016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="LC991BrokenCalculatorTest_brokenCalculator - 2019.02.10 at 06h 33m 35s.xml">
-      <configuration name="LC991BrokenCalculatorTest.brokenCalculator" configurationId="JUnit" />
-    </history-entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a dp question" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a dp question" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6185567" visible="true" weight="0.12732475" />
-      <window_info id="Structure" order="1" sideWeight="0.17702448" side_tool="true" weight="0.37124464" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.3814433" side_tool="true" weight="0.16666667" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5301205" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33373493" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6185567" visible="true" weight="0.16666667" />
-      <window_info id="Structure" order="1" sideWeight="0.17702448" side_tool="true" weight="0.37124464" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.3814433" side_tool="true" visible="true" weight="0.16666667" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27108434" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5325301" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33373493" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-    </layout-to-restore>
+  <component name="WindowStateProjectService">
+    <state x="843" y="1041" width="1711" height="751" key="#xdebugger.evaluate" timestamp="1587265133427">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state x="843" y="1041" width="1711" height="751" key="#xdebugger.evaluate/83.44.3757.2116@83.44.3757.2116" timestamp="1587265133427" />
+    <state x="1361" y="503" width="1174" height="1198" key="CommitChangelistDialog2" timestamp="1585005379926">
+      <screen x="67" y="44" width="3773" height="2116" />
+    </state>
+    <state x="1361" y="503" width="1174" height="1198" key="CommitChangelistDialog2/67.44.3773.2116@67.44.3773.2116" timestamp="1585005379926" />
+    <state width="553" height="800" key="DebuggerActiveHint" timestamp="1585012443610">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="553" height="800" key="DebuggerActiveHint/83.44.3757.2116@83.44.3757.2116" timestamp="1585012443610" />
+    <state x="1638" y="745" width="636" height="714" key="FileChooserDialogImpl" timestamp="1585070211518">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state x="1638" y="745" width="636" height="714" key="FileChooserDialogImpl/83.44.3757.2116@83.44.3757.2116" timestamp="1585070211518" />
+    <state width="3722" height="412" key="GridCell.Tab.0.bottom" timestamp="1588051077656">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3738" height="600" key="GridCell.Tab.0.bottom/67.44.3773.2116@67.44.3773.2116" timestamp="1585006774740" />
+    <state width="3722" height="412" key="GridCell.Tab.0.bottom/83.44.3757.2116@83.44.3757.2116" timestamp="1588051077656" />
+    <state width="3722" height="412" key="GridCell.Tab.0.center" timestamp="1588051077656">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3738" height="600" key="GridCell.Tab.0.center/67.44.3773.2116@67.44.3773.2116" timestamp="1585006774739" />
+    <state width="3722" height="412" key="GridCell.Tab.0.center/83.44.3757.2116@83.44.3757.2116" timestamp="1588051077656" />
+    <state width="3722" height="412" key="GridCell.Tab.0.left" timestamp="1588051077656">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3738" height="600" key="GridCell.Tab.0.left/67.44.3773.2116@67.44.3773.2116" timestamp="1585006774739" />
+    <state width="3722" height="412" key="GridCell.Tab.0.left/83.44.3757.2116@83.44.3757.2116" timestamp="1588051077656" />
+    <state width="3722" height="412" key="GridCell.Tab.0.right" timestamp="1588051077656">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3738" height="600" key="GridCell.Tab.0.right/67.44.3773.2116@67.44.3773.2116" timestamp="1585006774739" />
+    <state width="3722" height="412" key="GridCell.Tab.0.right/83.44.3757.2116@83.44.3757.2116" timestamp="1588051077656" />
+    <state width="3722" height="966" key="GridCell.Tab.1.bottom" timestamp="1587265162360">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3722" height="966" key="GridCell.Tab.1.bottom/83.44.3757.2116@83.44.3757.2116" timestamp="1587265162360" />
+    <state width="3722" height="966" key="GridCell.Tab.1.center" timestamp="1587265162360">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3722" height="966" key="GridCell.Tab.1.center/83.44.3757.2116@83.44.3757.2116" timestamp="1587265162360" />
+    <state width="3722" height="966" key="GridCell.Tab.1.left" timestamp="1587265162360">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3722" height="966" key="GridCell.Tab.1.left/83.44.3757.2116@83.44.3757.2116" timestamp="1587265162360" />
+    <state width="3722" height="966" key="GridCell.Tab.1.right" timestamp="1587265162360">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="3722" height="966" key="GridCell.Tab.1.right/83.44.3757.2116@83.44.3757.2116" timestamp="1587265162360" />
+    <state x="1571" y="623" width="755" height="957" key="RollbackChangesDialog" timestamp="1585005314012">
+      <screen x="67" y="44" width="3773" height="2116" />
+    </state>
+    <state x="1571" y="623" width="755" height="957" key="RollbackChangesDialog/67.44.3773.2116@67.44.3773.2116" timestamp="1585005314012" />
+    <state x="1188" y="561" width="1531" height="1082" key="SettingsEditor" timestamp="1585007043467">
+      <screen x="67" y="44" width="3773" height="2116" />
+    </state>
+    <state x="1188" y="561" width="1531" height="1082" key="SettingsEditor/67.44.3773.2116@67.44.3773.2116" timestamp="1585007043467" />
+    <state width="746" height="596" key="SwitcherDM" timestamp="1585436168410">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state width="746" height="596" key="SwitcherDM/83.44.3757.2116@83.44.3757.2116" timestamp="1585436168410" />
+    <state x="1434" y="852" key="com.intellij.ide.util.TipDialog" timestamp="1585002889231">
+      <screen x="67" y="44" width="3773" height="2116" />
+    </state>
+    <state x="1434" y="852" key="com.intellij.ide.util.TipDialog/67.44.3773.2116@67.44.3773.2116" timestamp="1585002889231" />
+    <state x="1473" y="647" width="971" height="909" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585011794140">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state x="1463" y="647" width="971" height="909" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.44.3773.2116@67.44.3773.2116" timestamp="1585005243393" />
+    <state x="1473" y="647" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/83.44.3757.2116@83.44.3757.2116" timestamp="1585011794140" />
+    <state x="1512" y="699" width="899" height="804" key="find.popup" timestamp="1588049798424">
+      <screen x="83" y="44" width="3757" height="2116" />
+    </state>
+    <state x="1512" y="699" width="899" height="804" key="find.popup/83.44.3757.2116@83.44.3757.2116" timestamp="1588049798424" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/map/LC994.java</url>
-          <line>73</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/map/LC994.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/math/LC855AssignExamSeats.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/uber/StringProcess.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/others/LC146LRU.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/backtracking/LC51NQuenes.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/others/LC1003.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/math/LC43MultipleStrings.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/map/LC743Djikstra.java</url>
-          <line>51</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/map/LC743Djikstra.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/bfs/LC417.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/LC438.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/LC438.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/LC388.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/LC388.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/contest/NewTest.java</url>
           <line>12</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/string/LC388.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dfs/LC399.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dfs/LC488.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/binarytree/LC501.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/slidingwindow/LC424.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="b-a==-5" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/main/java/dp/LC1027.java</url>
-          <line>15</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="65" />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>b-a==-5</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/LC698.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binarytree/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/binarytree/LC129.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binarytree/LC655.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basic/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/uber/StringProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/BalacendParatathese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/LC218.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/LC146LRU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="11" selection-start-line="97" selection-start-column="11" selection-end-line="97" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/LC22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/LC457.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/Calculations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/LC1001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/OneEditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/LC414.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/LC464.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/LC368.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/priorityqueue/LC347.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/map/LC133.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/backtracking/LC51NQuenes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/others/LC1003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/math/LC43MultipleStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/map/LC743Djikstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/api/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" selection-start-line="6" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/LC388.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/LC399.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/map/LC1013.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/LC488.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binarytree/LC783.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6975">
-          <caret line="507" column="35" selection-start-line="507" selection-start-column="35" selection-end-line="507" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/corba/se/impl/encoding/BufferManagerReadStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designpatterns/BuilderPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bfs/LC417.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/LC438.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/binarytree/LC501.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/priorityqueue/LC703.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bits/LC1017.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/google/Subsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#599#625#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/LongIntegerSubstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/slidingwindow/LC424.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dfs/LC51NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="605" column="10" selection-start-line="605" selection-start-column="10" selection-end-line="605" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/map/MusicPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dp/LC1027.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/trie/LC1032StreamChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="85" column="45" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1944#1945#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
