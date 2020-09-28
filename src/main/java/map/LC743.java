@@ -10,6 +10,9 @@ public class LC743 {
         int[] dis = new int[N+1];
         Arrays.fill(dis, Integer.MAX_VALUE);
         int[][] adj = new int[N+1][N+1];
+        for(int i=0;i<=N;i++) {
+            Arrays.fill(adj[i], Integer.MAX_VALUE);
+        }
         for(int[] time : times) {
             int a = time[0];
             int b = time[1];
@@ -22,7 +25,7 @@ public class LC743 {
         while(!q.isEmpty()) {
             int cur = q.poll();
             for(int i=1;i<=N;i++) {
-                if(adj[cur][i] > 0 && i != cur) {
+                if(adj[cur][i] < Integer.MAX_VALUE && adj[cur][i] + dis[cur] < dis[i]) {
                     dis[i] = Math.min(dis[i], dis[cur] + adj[cur][i]);
                     q.offer(i);
                 }
