@@ -18,16 +18,16 @@ public class QuickSort {
         int pivot = nums[r];
         //poz is the position of current small num, why initialized to be l - 1? Cause [l, r], there might be no number smaller than pivot, so logic becomes to be: if a smaller was found
         //then increase the poz, and switch. And always process the pivot separately, it's a lot easier to understand.
-        int poz = l - 1;
+        //Or set initialize the poz on the first element of the array. Both works.
+        int poz = l;
         for(int j=l;j<r;j++) {
             if(nums[j] <= pivot) {
-                poz++;
                 int temp = nums[poz];
                 nums[poz] = nums[j];
                 nums[j] = temp;
+                poz++;
             }
         }
-        poz++;
         nums[r] = nums[poz];
         nums[poz] = pivot;
         return poz;

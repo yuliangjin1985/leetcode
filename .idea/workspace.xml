@@ -5,11 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2d15bcb-12e5-40ff-b1a2-a2ed7946f84b" name="Default Changelist" comment="added a">
-      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/LC1041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/FindCelebrity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/box/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/LC588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/LeakBucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/LeakyBucketLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/PrimeAirRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/amazon/oa/ValidVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binarytree/BiggestPathBetweenTwoLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/doordash/EmployeeFreeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/LC1136ParallelCourses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/LCDijkstra1976.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/microsoft/MinAdjSwapsForPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/amazon/LC1192.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/amazon/LC1192.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode75/KthSmallestElementInBST230.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode75/KthSmallestElementInBST230.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,22 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/nio/file/Files.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/locks/ReentrantLock.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar!/sun/misc/Unsafe.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/BlockingQueue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/LinkedBlockingQueue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/LinkedBlockingDeque.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/lang/Thread.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/lang/Number.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/nio/file/Path.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/BlockingDeque.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/TreeMap.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_291/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1ZY4q2nJEFd8ZqobMO5C3WekT9I" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,19 +76,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inmemorydb/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.NewTest" />
-      <module name="main" />
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Database">
+    <configuration name="Database" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.oa.Database" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contest.*" />
+          <option name="PATTERN" value="amazon.oa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewTest0418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.NewTest0418" />
-      <module name="main" />
+    <configuration name="FileSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.oa.FileSystem" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contest.*" />
+          <option name="PATTERN" value="amazon.oa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.QuickSort" />
-      <module name="main" />
+    <configuration name="LC588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.oa.LC588" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="amazon.oa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumIssues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tech.SumIssues" />
-      <module name="main" />
+    <configuration name="LeakyBucketLimiter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.oa.LeakyBucketLimiter" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tech.*" />
+          <option name="PATTERN" value="amazon.oa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UndergroundSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.d03142020.UndergroundSystem" />
-      <module name="main" />
+    <configuration name="ValidVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="amazon.oa.ValidVariable" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contest.d03142020.*" />
+          <option name="PATTERN" value="amazon.oa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SumIssues" />
-        <item itemvalue="Application.NewTest0418" />
-        <item itemvalue="Application.UndergroundSystem" />
-        <item itemvalue="Application.NewTest" />
+        <item itemvalue="Application.Database" />
+        <item itemvalue="Application.LC588" />
+        <item itemvalue="Application.FileSystem" />
+        <item itemvalue="Application.ValidVariable" />
+        <item itemvalue="Application.LeakyBucketLimiter" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +190,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added a dp question" />
@@ -169,7 +204,36 @@
           <line>12</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/amazon/oa/FileSystem.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/amazon/oa/Database.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/amazon/oa/Database.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/amazon/oa/Database.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/amazon/oa/Database.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

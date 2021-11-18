@@ -5,7 +5,6 @@ import util.TreeNode;
 public class KthSmallestElementInBST230 {
     int N = 0;
     int num;
-    String a;
     public int kthSmallest(TreeNode root, int k) {
         N = k;
         dfs(root);

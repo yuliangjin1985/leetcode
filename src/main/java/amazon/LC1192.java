@@ -8,10 +8,10 @@ public class LC1192 {
     private int h = 0;
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
         List[] adjList = new LinkedList[n];
-        int[] arr = new int[n];
+        int[] height = new int[n];
         int[] low = new int[n];
         List<List<Integer>> lists = new LinkedList<>();
-        Arrays.fill(arr, -1);
+        Arrays.fill(height, -1);
         for(int i=0;i<n;i++) {
             adjList[i] = new LinkedList<Integer>();
 
@@ -24,23 +24,23 @@ public class LC1192 {
         }
 
         for(int i=0;i<n;i++) {
-            if(arr[i] == -1) {
-                dfs(i, arr, low, adjList, lists, i);
+            if(height[i] == -1) {
+                dfs(i, height, low, adjList, lists, i);
             }
         }
         return lists;
     }
 
-    private void dfs(int u, int[] arr, int[] low, List[] adjList, List<List<Integer>> lists, int parent) {
+    private void dfs(int u, int[] height, int[] low, List[] adjList, List<List<Integer>> lists, int parent) {
         h++;
-        arr[u] = h;
+        height[u] = h;
         low[u] = h;
         List<Integer> list = adjList[u];
         for(int v : list) {
             if(v == parent) continue;
-            if(arr[v] == -1) {
-                dfs(v, arr, low, adjList, lists, u);
-                if(low[v] > arr[u]) {
+            if(height[v] == -1) {
+                dfs(v, height, low, adjList, lists, u);
+                if(low[v] > height[u]) {
                     lists.add(Arrays.asList(u, v));
                 }
             }
